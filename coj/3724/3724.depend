@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487654792 source:c:\users\equipo\documents\acm-icpc\coj\3724\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464449614 source:c:\users\equipo\documents\acm-icpc\uva\401\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

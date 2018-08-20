@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463864925 source:c:\users\equipo\documents\acm-icpc\actividad 5\c\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+
